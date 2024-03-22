@@ -1,4 +1,4 @@
-# presentacion-
+# presentacion Lucas
 
 - Escriban presentación sobre ustedes.
 - Suban la presentación a Git.
@@ -7,4 +7,5 @@
 - Compartan el link por discord
 - Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
 
-Ya saben usar git!
+*Ya saben usar git!*
+ aprendiedno a usar Markdown
